@@ -1,18 +1,18 @@
 body {
 font-family: "Verdana", sans-serif;
-background-color: black;
+background-color: #000000;
 text-align: center;
 font-size: 16px;
 }
 
 h1 {
-color: white;
+color: #FFFFFF;
 font-weight: normal;
 font-size: 3.125rem;
 text-align: center;
 }
 h2 {
-color:white;
+color: #FFFFFF;
 font-size: 2.625rem;
 font-weight: 300;
 
